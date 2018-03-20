@@ -1,7 +1,7 @@
 # StreetSmart Cities
 
 ![alt text](https://github.com/vontell/StreetSmartCities-Android/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
-(See [Devpost](https://devpost.com/software/streetsmartcities-android) for updates and screenshots.)
+
 
 ## Inspiration
 
